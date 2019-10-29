@@ -1,7 +1,6 @@
 #EXTM3U
 #EXTINF:-1 type="stream" tvg-id="A Fazenda 11" tvg-logo="https://i.ibb.co/PhfqYRv/afazenda11.png" group-title="Variedade",A Fazenda 11
-http://us12.server.kkgolf.xyz/HD_A_FAZENDA/video.m3u8?token=a2f7dd5a28eae41e46a19ccaea762fd1
-
+http://172.105.153.142/hls/s:78.47.3.135/afazenda_70ac2ffc_1f7364299d68e0e7bf815556ba4f114da43ae283.m3u8
 #EXTINF:-1 type="stream" tvg-id="Combate" tvg-logo="https://i.ibb.co/HzWqMFR/combate.png" group-title="Esporte",Combate
 http://us14.server.kp2golf.xyz/SD_COMBATE/video.m3u8?token=a2f7dd5a28eae41e46a19ccaea762fd1
 
