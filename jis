@@ -1,0 +1,11 @@
+#ENTM3U
+#EXTINF:-1,Cinemax
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/cinemax720p_49117359_30f8d3661d57a2230446d8e60afcf5db776bb08a/playlist.m3u8
+#EXTINF:-1,Fox
+http://edge-aws.aovivo.club/hls/s:78.46.240.155/fox_5a5b0f9b_221a17a5386092a0a19e1f0b96d01621c5a9428a.m3u8
+#EXTINF:-1,Max
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/max_9f682df2_4ec64cc2f392b503dead2cbf3e721b1ea154ee96/playlist.m3u8
+#EXTINF:-1,Telecine Action
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/telecineaction_be057d4c_ef1f4f14182e71f5fc61a52eaaf9733e6b61b010/playlist.m3u8
+#EXTINF:-1,TNT
+http://edge-aws.aovivo.club/hls/s:95.216.15.44:81/tnt_9109c85a_b462b3a03f21a04ba34e9c867c4490c459fc1eda/playlist.m3u8
